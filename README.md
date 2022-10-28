@@ -30,3 +30,8 @@ Export import chat.sql to your database
 
 ### Screenshot Demo
 ![result image](https://github.com/gerryauditya6/whatsucks/blob/main/screenshot/Screenshot%20Whatsucks.png)
+
+## Authors
+
+- [@gerryauditya6](https://www.github.com/gerryauditya6)
+- [@gerryaudityaa](https://www.instagram.com/gerryaudityaa)
