@@ -19,7 +19,7 @@ Go to the project directory
 Change credential in config.php with your database credential
 
 ```bash
-  whatsucks/config.php
+  whatsucks/php/config.php
 ```
 
 Export import chat.sql to your database
@@ -33,5 +33,5 @@ Export import chat.sql to your database
 
 ## Authors
 
-- [@gerryauditya6](https://www.github.com/gerryauditya6)
-- [@gerryaudityaa](https://www.instagram.com/gerryaudityaa)
+- [@gerryauditya6](https://www.github.com/gerryauditya6) Github Page
+- [@gerryaudityaa](https://www.instagram.com/gerryaudityaa) Instagram Page
