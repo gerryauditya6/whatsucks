@@ -7,7 +7,7 @@ Simple Realtime ChatAPP using php and javascript.
 Clone the project
 
 ```bash
-  git [clone https://link-to-project](https://github.com/gerryauditya6/whatsucks.git)
+  git [clone https://github.com/gerryauditya6/whatsucks.git]
 ```
 
 Go to the project directory
