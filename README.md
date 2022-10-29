@@ -7,7 +7,7 @@ Simple Realtime ChatAPP using php and javascript.
 Clone the project
 
 ```bash
-  git [clone https://github.com/gerryauditya6/whatsucks.git]
+  git clone https://github.com/gerryauditya6/whatsucks.git
 ```
 
 Go to the project directory
@@ -22,7 +22,7 @@ Change credential in config.php with your database credential
   whatsucks/php/config.php
 ```
 
-Export import chat.sql to your database
+Import chat.sql to your database
 
 ```bash
   whatsucks/chat.sql
